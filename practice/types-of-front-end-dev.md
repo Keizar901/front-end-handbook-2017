@@ -12,7 +12,7 @@ The generic job title that describes a developer who is skilled to some degree a
 
 **Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer)**
 
-The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires a computer science degree and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end applications).
+The job title given to a developer who comes from a computer science or engineering background, and is using these skills to work with front-end technologies. This role typically requires a computer science degree and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end applications).
 
 ***
 
@@ -65,4 +65,3 @@ When the word "Testing" or "QA" is included in the job title, this will denote t
 ***
 
 Note that if you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used by an employer to describe a role that is responsible for all aspects of web/app development, i.e., both front-end (potentially including design) and back-end.
-
